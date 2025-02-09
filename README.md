@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales & Performance Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview]([images/dashboard-preview.png](https://github.com/wakandamohan1/Ecommerce/blob/main/Ecommerce_Powerbi.png))
 
 ## 📌 Overview
 This project is an **interactive Power BI dashboard** that analyzes e-commerce sales performance, customer behavior, and key business metrics.
