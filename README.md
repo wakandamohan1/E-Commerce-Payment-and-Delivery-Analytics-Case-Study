@@ -34,20 +34,22 @@ This case study analyzes key metrics related to **payments, delivery efficiency,
 
 ## 📥 Download Links  
 
-🔹 **[Download Power BI Dashboard](https://drive.google.com/file/d/1mACHCyKOfwNJ6BQX15UEoKvna67mEu91/view?usp=drive_link)**   
+🔹 **[Download Power BI Dashboard](https://drive.google.com/file/d/1mACHCyKOfwNJ6BQX15UEoKvna67mEu91/view?usp=drive_link)**
+
 🔹 **[Download Tableau Dashboard](https://drive.google.com/file/d/1hdC8skkcN39BChW_T6cj9JuPE4IdHQ93/view?usp=drive_link)**   
+
 🔹 **[Download Excel Dataset](https://docs.google.com/spreadsheets/d/16hFrPyGT2G7fFK6_OHQ_aXBjblssyQnH/edit?usp=drive_link&rtpof=true&sd=true)**  
 ---
 
 ## 📊 Data Models & Relationships  
 
 ### 📌 Tableau Relationship Model  
-![Tableau Relationship Model](https://drive.google.com/file/d/14rV2hy9rMqKDreFpIkUY1miaGGJ1B3kQ/view?usp=drive_link)  
+![Tableau Relationship Model]([https://drive.google.com/file/d/14rV2hy9rMqKDreFpIkUY1miaGGJ1B3kQ/view?usp=drive_link](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/Tableau_relationship_model.png))  
 
  
 
 ### 📌 Power BI Data Model  
-![Power BI Data Model](https://drive.google.com/file/d/1pAuAcLXVz9h0_sIkvyT8e-SNNfF5kEQ0/view?usp=drive_link)   
+![Power BI Data Model]([https://drive.google.com/file/d/1pAuAcLXVz9h0_sIkvyT8e-SNNfF5kEQ0/view?usp=drive_link](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/Powerbi_datamodel.png))   
 
  
 
