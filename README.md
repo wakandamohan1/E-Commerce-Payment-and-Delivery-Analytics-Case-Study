@@ -38,7 +38,7 @@ This case study analyzes key metrics related to **payments, delivery efficiency,
 
 🔹 **[Download Tableau Dashboard](https://drive.google.com/file/d/1hdC8skkcN39BChW_T6cj9JuPE4IdHQ93/view?usp=drive_link)**   
 
-🔹 **[Download Excel Dataset](https://drive.google.com/file/d/1mACHCyKOfwNJ6BQX15UEoKvna67mEu91/view?usp=drive_link)**  
+🔹 **[Download Excel Dashboard](https://drive.google.com/file/d/1mACHCyKOfwNJ6BQX15UEoKvna67mEu91/view?usp=drive_link)**   
 ---
 
 ## 📊 Data Models & Relationships  
