@@ -1,7 +1,7 @@
 # 📊 E-Commerce Payment & Delivery Analytics Case Study  
 
 ## 📌 Dashboard Preview  
-![Dashboard Preview](https://drive.google.com/file/d/1Er29P7wPuXu0vrpew3JxRJ2hUaBfggP3/view?usp=drive_link)   
+![Dashboard Preview](https://drive.google.com/file/d/1Er29P7wPuXu0vrpew3JxRJ2hUaBfggP3/view?usp=sharing)   
 
 
 ## 📌 Overview  
