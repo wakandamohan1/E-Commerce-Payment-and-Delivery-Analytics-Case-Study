@@ -1,4 +1,9 @@
 # 📊 E-Commerce Payment & Delivery Analytics Case Study  
+---
+
+## 📌 Overview  
+This case study analyzes key metrics related to **payments, delivery efficiency, and customer satisfaction** for a major e-commerce company. The goal is to extract actionable insights to improve **operational efficiency, customer experience, and marketing strategies.**  
+---
 
 ## 📌 Dashboard Preview - Power BI 
 ![Dashboard Preview](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/Ecommerce_Powerbi.png)
