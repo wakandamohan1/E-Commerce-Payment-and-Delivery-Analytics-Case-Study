@@ -50,7 +50,16 @@ This case study analyzes key metrics related to **payments, delivery efficiency,
 🔹 **[Download Excel Dataset](https://docs.google.com/spreadsheets/d/16hFrPyGT2G7fFK6_OHQ_aXBjblssyQnH/edit?usp=drive_link&rtpof=true&sd=true)**  
 
 ---
+## Olist Store Analysis Using Python  
+Apart from the Power BI analysis, I have also performed an **in-depth data analysis of the Olist e-commerce dataset using Python**. This project includes:  
 
+✔️ **Data Cleaning & Preprocessing** using Pandas  
+✔️ **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn  
+✔️ **Feature Engineering & Data Modeling**  
+✔️ **Key Business Insights on Orders, Payments & Deliveries**  
+
+🔗 **Check out the Python analysis here:** [Olist Store Analysis - Python](https://github.com/wakandamohan1/Olist-Store-Analysis-Python)  
+--
 ## 📊 Data Models & Relationships  
 
 ### 📌 Tableau Relationship Model  
