@@ -58,7 +58,7 @@ Apart from the Power BI analysis, I have also performed an **in-depth data analy
 ✔️ **Feature Engineering & Data Modeling**  
 ✔️ **Key Business Insights on Orders, Payments & Deliveries**  
 
-🔗 **Check out the Python analysis here:** [Olist Store Analysis - Python](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/E-Commerce_Store_python_jupyter_notebook.ipynb)  
+🔗 **Check out the Python analysis here:** [Olist Store Analysis - Python](https://github.com/wakandamohan1/E-Commerce-Payment-and-Delivery-Analytics-Case-Study/blob/main/Python%20Analysis%20of%20OLIST%20E%20Commerce.ipynb)  
 --
 ## 📊 Data Models & Relationships  
 
