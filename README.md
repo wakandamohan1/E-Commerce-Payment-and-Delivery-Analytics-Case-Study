@@ -2,7 +2,7 @@
 ---
 
 ## 📌 Overview  
-This case study analyzes key metrics related to **payments, delivery efficiency, and customer satisfaction** for a major e-commerce company. The goal is to extract actionable insights to improve **operational efficiency, customer experience, and marketing strategies.**  
+This case study analyzes key metrics related to **payments, delivery efficiency, and customer satisfaction** for a major e-commerce company, OLIST. The goal is to extract actionable insights to improve **operational efficiency, customer experience, and marketing strategies.**  
 ---
 
 ## 📌 Dashboard Preview - Power BI 
